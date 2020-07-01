@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form 7 - SendPulse - Integration\n"
+"POT-Creation-Date: 2019-10-14 17:03+0300\n"
+"PO-Revision-Date: 2019-10-14 17:04+0300\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: admin\n"
+"X-Poedit-SearchPath-2: contact-form-7-sendpulse-integration.php\n"
+
+#: admin/Cf7.php:85
+msgid "Integration with SendPulse"
+msgstr "Интеграция с SendPulse"
+
+#: admin/Cf7.php:197
+msgid "ERROR"
+msgstr "ОШИБКА"
+
+#: admin/Cf7.php:198
+msgid "To integrate with SendPulse, your must fill API ID and API Secret."
+msgstr "Для интеграции с SendPulse, вам нужно заполнить API ID и API Secret."
+
+#: admin/Cf7.php:203
+msgid "Settings successfully updated."
+msgstr "Настройки успешно обновлены."
+
+#: admin/Cf7.php:226
+msgid ""
+"Formation of contacts in SendPulse from the hits that users send on your "
+"site, using the Contact Form 7 plugin."
+msgstr ""
+"Формирование контактов в SendPulse из обращений, которые оставляют "
+"пользователи на Вашем сайте, с помощью Contact Form 7."
+
+#: admin/Cf7.php:242
+msgid "API ID"
+msgstr ""
+
+#: admin/Cf7.php:254 admin/Cf7.php:359
+msgid "Your API ID"
+msgstr "Ваш API ID"
+
+#: admin/Cf7.php:262 admin/Cf7.php:363
+msgid "API Secret"
+msgstr ""
+
+#: admin/Cf7.php:274
+msgid "Your API Secret"
+msgstr "Ваш API Secret"
+
+#: admin/Cf7.php:285
+msgid "Plugin documentation: "
+msgstr "Документация плагина:"
+
+#: admin/Cf7.php:287
+msgid "open"
+msgstr "открыть"
+
+#: admin/Cf7.php:288
+msgid "Or open the folder `documentation` in the plugin and open index.html"
+msgstr "Или откройте папку `documentation` в плагине и откройте index.html"
+
+#: admin/Cf7.php:295
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#: admin/Cf7.php:302
+msgid "License verification"
+msgstr "Проверка лицензии"
+
+#: admin/Cf7.php:315
+msgid "Purchase code"
+msgstr "Код покупки"
+
+#: admin/Cf7.php:333
+msgid "Where Is My Purchase Code?"
+msgstr "Где найти код покупки?"
+
+#: admin/Cf7.php:342
+msgid "Verify"
+msgstr "Активировать"
+
+#: admin/Cf7.php:347
+msgid "Unverify"
+msgstr "Деактивировать"
+
+#: admin/Cf7.php:371
+msgid "Change settings"
+msgstr "Изменить настройки"
+
+#: admin/Cf7.php:380
+msgid "To work with the plugin, you must configure integration with SendPulse."
+msgstr "Для работы плагина необходимо настроить интеграцию с SendPulse."
+
+#: admin/Cf7.php:388
+msgid "Go to setup"
+msgstr "Перейти к настройке"
+
+#: admin/Cf7.php:394
+msgid ""
+"The fields sent to SendPulse are configured on the form editing page, on the "
+"\"SendPulse\" tab."
+msgstr ""
+"Поля передаваемые в SendPulse настраиваются на странице редактирования "
+"формы, на вкладке \"SendPulse\"."
+
+#: admin/Cf7.php:407
+msgid "SendPulse"
+msgstr ""
+
+#: admin/Cf7.php:427 admin/Cf7.php:432
+msgid "Enable send"
+msgstr "Включить отправку"
+
+#: admin/Cf7.php:449
+msgid "Utm-fields"
+msgstr ""
+
+#: admin/Cf7.php:456
+msgid "Roistat-fields"
+msgstr ""
+
+#: admin/Cf7.php:459
+msgid "GA fields"
+msgstr ""
+
+#: admin/Cf7.php:466
+msgid "Email"
+msgstr ""
+
+#: admin/Cf7.php:487
+msgid "Phone"
+msgstr "Телефон"
+
+#: admin/Cf7.php:507
+msgid "Double Opt-In"
+msgstr ""
+
+#: admin/Cf7.php:522
+msgid "Sender Double Opt-In email"
+msgstr "Email отправителя Double Opt-In"
+
+#: admin/Cf7.php:541
+msgid ""
+"Sender address from which confirmation email will be sent. Required for "
+"Double Opt-In. Be careful, not all senders are allowed, please read DMARC "
+"(otherwise the contact will not be added) - https://sendpulse.com/knowledge-"
+"base/email-service/general/dmarc-policy"
+msgstr ""
+"Адрес отправителя, от которого отправится письмо подтверждение. Обязательно "
+"для Double Opt-In. Будьте внимательны, не все отправители разрешены, "
+"пожалуйста прочтите - DMARC (иначе контакт не будет добавлен) https://"
+"sendpulse.com/ru/knowledge-base/email-service/general/dmarc-policy"
+
+#: admin/Cf7.php:553
+msgid "Mailing list"
+msgstr "Адресная книга"
+
+#: admin/Cf7.php:579
+msgid "Additional variables"
+msgstr "Дополнительные переменные"
+
+#: admin/Cf7.php:597 admin/Cf7.php:640
+msgid "There are no additional variables for the selected list."
+msgstr "Нет ни одной дополнительной переменной для выбранной книги."
+
+#: includes/Bootstrap.php:55
+msgid ""
+"To run the plug-in, you must first install and activate the Contact Form 7 "
+"plugin."
+msgstr ""
+"Для работы плагина сначала необходимо установить и активировать плагин "
+"Contact Form 7."
+
+#: includes/Bootstrap.php:59
+msgid "Error while activating the Contact Form 7 - SendPulse - Integration"
+msgstr "Ошибка при активации плагина  Contact Form 7 - SendPulse - Integration"
+
+#: includes/Sendpulse.php:56
+#, php-format
+msgid "Response SendPulse: Error code (%s): %s. Check the settings."
+msgstr "Ответ SendPulse: Код ошибки (%s): %s. Проверьте настройки."
+
+#: includes/Sendpulse.php:63
+msgid "An error occurred while verifying the connection to the SendPulse."
+msgstr "Ошибка при проверке соединения с SendPulse."

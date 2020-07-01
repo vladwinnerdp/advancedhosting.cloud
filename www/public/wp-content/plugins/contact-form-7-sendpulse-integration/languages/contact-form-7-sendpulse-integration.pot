@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form 7 - SendPulse - Integration\n"
+"POT-Creation-Date: 2019-10-10 01:48+0300\n"
+"PO-Revision-Date: 2019-10-10 01:55+0300\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: admin\n"
+"X-Poedit-SearchPath-2: contact-form-7-sendpulse-integration.php\n"
+
+#: admin/Cf7.php:85
+msgid "Integration with SendPulse"
+msgstr ""
+
+#: admin/Cf7.php:144
+msgid "ERROR"
+msgstr ""
+
+#: admin/Cf7.php:145
+msgid "To integrate with SendPulse, your must fill API ID and API Secret."
+msgstr ""
+
+#: admin/Cf7.php:150
+msgid "Settings successfully updated."
+msgstr ""
+
+#: admin/Cf7.php:173
+msgid ""
+"Formation of contacts in SendPulse from the hits that users send on your "
+"site, using the Contact Form 7 plugin."
+msgstr ""
+
+#: admin/Cf7.php:189
+msgid "API ID"
+msgstr ""
+
+#: admin/Cf7.php:201 admin/Cf7.php:253
+msgid "Your API ID"
+msgstr ""
+
+#: admin/Cf7.php:209 admin/Cf7.php:257
+msgid "API Secret"
+msgstr ""
+
+#: admin/Cf7.php:221
+msgid "Your API Secret"
+msgstr ""
+
+#: admin/Cf7.php:232
+msgid "Plugin documentation: "
+msgstr ""
+
+#: admin/Cf7.php:234
+msgid "open"
+msgstr "открыть"
+
+#: admin/Cf7.php:235
+msgid "Or open the folder `documentation` in the plugin and open index.html"
+msgstr ""
+
+#: admin/Cf7.php:242
+msgid "Save settings"
+msgstr ""
+
+#: admin/Cf7.php:265
+msgid "Change settings"
+msgstr ""
+
+#: admin/Cf7.php:274
+msgid "To work with the plugin, you must configure integration with SendPulse."
+msgstr ""
+
+#: admin/Cf7.php:282
+msgid "Go to setup"
+msgstr ""
+
+#: admin/Cf7.php:288
+msgid ""
+"The fields sent to SendPulse are configured on the form editing page, on the "
+"\"SendPulse\" tab."
+msgstr ""
+
+#: admin/Cf7.php:301
+msgid "SendPulse"
+msgstr ""
+
+#: admin/Cf7.php:321 admin/Cf7.php:326
+msgid "Enable send"
+msgstr ""
+
+#: admin/Cf7.php:360
+msgid "Email"
+msgstr ""
+
+#: admin/Cf7.php:381
+msgid "Phone"
+msgstr ""
+
+#: admin/Cf7.php:401
+msgid "Double Opt-In"
+msgstr ""
+
+#: admin/Cf7.php:416
+msgid "Sender Double Opt-In email"
+msgstr ""
+
+#: admin/Cf7.php:435
+msgid ""
+"Sender address from which confirmation email will be sent. Required for "
+"Double Opt-In. Be careful, not all senders are allowed, please read DMARC "
+"(otherwise the contact will not be added) - https://sendpulse.com/knowledge-"
+"base/email-service/general/dmarc-policy"
+msgstr ""
+
+#: admin/Cf7.php:447
+msgid "Mailing list"
+msgstr ""
+
+#: admin/Cf7.php:473
+msgid "Additional variables"
+msgstr ""
+
+#: admin/Cf7.php:491 admin/Cf7.php:534
+msgid "There are no additional variables for the selected list."
+msgstr ""
+
+#: includes/Bootstrap.php:55
+msgid ""
+"To run the plug-in, you must first install and activate the Contact Form 7 "
+"plugin."
+msgstr ""
+
+#: includes/Bootstrap.php:59
+msgid "Error while activating the Contact Form 7 - SendPulse - Integration"
+msgstr ""
+
+#: includes/Sendpulse.php:56
+#, php-format
+msgid "Response SendPulse: Error code (%s): %s. Check the settings."
+msgstr ""
+
+#: includes/Sendpulse.php:63
+msgid "An error occurred while verifying the connection to the SendPulse."
+msgstr ""

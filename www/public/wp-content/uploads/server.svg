@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" x="0px" y="0px" viewBox="0 0 496 496" style="enable-background:new 0 0 496 496;" xml:space="preserve">
+<g>
+	<g>
+		<path d="M144,32v432h16v-32h176v32h16V32H144z M336,416H160v-80h176V416z M336,320H160v-80h176V320z M336,224H160v-80h176V224z     M336,128H160V48h176V128z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M176,64v48h80V64H176z M208,96h-16V80h16V96z M240,96h-16V80h16V96z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="272" y="64" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="304" y="64" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="272" y="96" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="304" y="96" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M176,160v48h80v-48H176z M208,192h-16v-16h16V192z M240,192h-16v-16h16V192z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="272" y="160" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="304" y="160" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="272" y="192" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="304" y="192" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M176,256v48h80v-48H176z M208,288h-16v-16h16V288z M240,288h-16v-16h16V288z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="272" y="256" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="304" y="256" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="272" y="288" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="304" y="288" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M176,352v48h80v-48H176z M208,384h-16v-16h16V384z M240,384h-16v-16h16V384z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="272" y="352" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="304" y="352" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="272" y="384" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="304" y="384" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="176" y="448" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="208" y="448" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="240" y="448" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="272" y="448" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="304" y="448" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M32,160v48h64v-48H32z M80,192H48v-16h32V192z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M32,256v48h64v-48H32z M80,288H48v-16h32V288z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M32,352v48h64v-48H32z M80,384H48v-16h32V384z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="32" y="448" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="64" y="448" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M472,128h-88V24c0-13.232-10.768-24-24-24H136c-13.232,0-24,10.768-24,24v104H24c-13.232,0-24,10.768-24,24v344h112h8h256    h8h112V152C496,138.768,485.232,128,472,128z M112,480H16v-48h96V480z M112,416H16v-80h96V416z M112,320H16v-80h96V320z M112,224    H16v-72c0-4.416,3.592-8,8-8h88V224z M368,480H128V24c0-4.416,3.592-8,8-8h224c4.408,0,8,3.584,8,8V480z M480,480h-96v-48h96V480z     M480,416h-96v-80h96V416z M480,320h-96v-80h96V320z M480,224h-96v-80h88c4.408,0,8,3.584,8,8V224z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M400,160v48h64v-48H400z M448,192h-32v-16h32V192z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M400,256v48h64v-48H400z M448,288h-32v-16h32V288z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M400,352v48h64v-48H400z M448,384h-32v-16h32V384z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="448" y="448" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="416" y="448" width="16" height="16"></rect>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>

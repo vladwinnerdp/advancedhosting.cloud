@@ -1,0 +1,4 @@
+
+# BEGIN All In One WP Security
+if ($http_user_agent ~* AhrefsBot|BLEXBot|BUbiNG|Detectify|FlipboardProxy|LinkpadBot|MJ12bot|MauiBot|Riddler|SemrushBot|SquigglebotBot|SurveyBot|VoidEYE|YottaShopping_Bot|aiHitBot|baiduspider|dotbot|trovitBot|webcrawl.net) { return 403; }
+# END All In One WP Security

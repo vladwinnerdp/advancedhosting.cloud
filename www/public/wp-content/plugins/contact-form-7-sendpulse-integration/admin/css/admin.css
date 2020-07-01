@@ -1,0 +1,28 @@
+.cf7-sendpulse-lds-dual-ring {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
+.cf7-sendpulse-lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 20px;
+  height: 20px;
+  margin: 1px;
+  border-radius: 50%;
+  border: 2px solid;
+  border-color: gray transparent gray transparent;
+  animation: cf7-sendpulse-lds-dual-ring 1.2s linear infinite;
+}
+@keyframes cf7-sendpulse-lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.cf7-sendpulse-red-mark {
+  color: red;
+}
